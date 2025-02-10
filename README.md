@@ -20,7 +20,7 @@ This project leverages Tableau to analyze key aspects of human resources data, p
 * **Filtering and Drill-Down:** Interactive filters to explore specific departments, locations, or other relevant categories.
 * **Geographic Visualization:** (If applicable) Mapping of employee distribution across different locations.
 
-**Key Insights (Examples - Replace with your actual insights):**
+**Key Insights**
 
 * Gender distribution across departments reveals potential imbalances.
 * Correlation between education level and salary highlights areas for compensation review.
